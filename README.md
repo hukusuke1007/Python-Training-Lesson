@@ -1381,6 +1381,8 @@ beautifulsoup4 ライブラリをインストール。
 $ pip3 install beautifulsoup4
 ```
 
+[Windowsの場合] (http://tamadasoft.com/index.php/2018/05/01/pycharm_beautifulsoup_import/)
+
 #### HTML要素を操作して、CSVファイルへ出力する
 
 ```sh
